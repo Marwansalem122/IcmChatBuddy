@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="IcmChat/IcmChat.csproj" />
+  <Project Path="IcmChatBuddy.AppHost/IcmChatBuddy.AppHost.csproj" />
+  <Project Path="IcmChatBuddy.ServiceDefaults/IcmChatBuddy.ServiceDefaults.csproj" />
+</Solution>

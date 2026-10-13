@@ -1,0 +1,6 @@
+@IcmChat_HostAddress = http://localhost:5164
+
+GET {{IcmChat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
